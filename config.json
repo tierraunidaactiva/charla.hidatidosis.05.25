@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Galería de Fotos de actividades de Tierra Unida Activa",
+  "title": "Charla sobre Hidatidosis",
   "sort-albums-by": "title",
   "sort-albums-direction": "desc",
   "sort-media-by": "filename",
