@@ -1,0 +1,14 @@
+{
+  "input": "./gallery",
+  "output": "./build_output",
+  "title": "Galería de Fotos de actividades de Tierra Unida Activa",
+  "sort-albums-by": "title",
+  "sort-albums-direction": "desc",
+  "sort-media-by": "filename",
+  "download-photos": "copy",
+  "cleanup": true,
+  "theme": "cards",
+  "css": "./custom.css",
+  "footer": "CC BY-SA Tierra Unida Activa (ACTUA)",
+  "usage-stats": false
+}
